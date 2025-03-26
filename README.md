@@ -15,14 +15,14 @@ submit: S/W Engineering
 ### Skill
 
 * Front-end
-  * HTML
-  * CSS
-  * JAVA Script
+  * **HTML**
+  * **CSS**
+  * **JAVA Script**
 * Back-end
-  * JAVA
-  * C#
+  * **JAVA**
+  * **C#**
 * Data
-  * My SQL
+  * **My SQL**
 
  ---
  ### 자격증
