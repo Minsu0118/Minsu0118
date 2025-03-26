@@ -12,10 +12,10 @@ submit: S/W Engineering
 ---
 ### Skill
 
-*FRONT END
-  *HTML
-  *CSS
-  *JAVA Script
+* FRONT END
+  * HTML
+  * CSS
+  * JAVA Script
 
 
 <!--
