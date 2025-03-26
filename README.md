@@ -1,13 +1,13 @@
 ## 백엔드 개발자 박민수
 ---
 
-E-Mail minsu240118@gmail.com
+E-Mail: minsu240118@gmail.com
 
-Tel 010-9127-0642
+Tel: 010-9127-0642
 
-Dob 12.04.2002
+Dob: 12.04.2002
 
-submit S/W Engineering
+submit: S/W Engineering
 
 ---
 
