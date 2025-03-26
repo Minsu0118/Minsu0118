@@ -52,6 +52,7 @@ Subject: S/W Engineering
 ### 학습노트
 #### HTML
 1. ![기본 Form 구성](https://github.com/Minsu0118/Minsu0118/blob/main/SmartSelect_20250326-122112_ChatGPT.jpg)
+
 2. 상황 별 태그
  * 제목 태그: <h1> ~ <h6> (크기가 점점 작아짐)
 
