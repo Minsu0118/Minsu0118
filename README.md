@@ -6,6 +6,7 @@ E-Mail minsu240118@gmail.com
 Tel 010-9127-0642
 
 Dob 12.04.2002
+
 ---
 
 
