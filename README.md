@@ -50,6 +50,10 @@ Subject: S/W Engineering
 
 ---
 ### 학습노트
+#### HTML
+1. ![기본 Form 구성](https://github.com/Minsu0118/Minsu0118/blob/main/SmartSelect_20250326-122112_ChatGPT.jpg)
+2. 
+---
 #### JAVA
 1. Java 개요
 * JVM 기반, 플랫폼 독립적
