@@ -51,7 +51,14 @@ submit: S/W Engineering
 ### 학습노트
 #### JAVA
 1. Java 개요
-
+* JVM 기반, 플랫폼 독립적
+* 객체지향 프로그래밍(OOP) 지원
+* 자동 메모리 관리(GC)
+2. 기본 문법
+  * 기본 : int, long, short, boolean
+  * 참조 : String 등
+3. OOP 개념
+ * 캡슐화, 상속, 다형성, 추상화
 
  
 
