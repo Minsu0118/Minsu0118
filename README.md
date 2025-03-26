@@ -64,11 +64,11 @@ Subject: S/W Engineering
 
    * 목록 태그:
 
-    *** 순서 없는 목록: ul li항목/li /ul
+     * 순서 없는 목록: ul li항목/li /ul
 
-    *** 순서 있는 목록: ol li항목/li /ol
+     * 순서 있는 목록: ol li항목/li /ol
 
-    *** 표 태그: table, tr, td, th
+     * 표 태그: table, tr, td, th
 
 ---
 #### JAVA
