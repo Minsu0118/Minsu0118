@@ -58,10 +58,9 @@ Subject: S/W Engineering
 2. 기본 문법
   * 기본 : int, long, short, boolean
   * 참조 : String 등
+  * 제어 : if, switch, for, while
 3. OOP 개념
  * 캡슐화, 상속성, 다형성, 추상화
-4. 제어문
-   * if, switch, for, while
 5. 기본 메서드 구성
    * public int add(int a, int b) {
 
