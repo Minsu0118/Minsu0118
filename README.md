@@ -24,6 +24,8 @@ submit: S/W Engineering
 
  ---
  ### 자격증
+ 포토샵
+ 
 
 
 <!--
