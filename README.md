@@ -22,6 +22,9 @@ submit: S/W Engineering
 * Data
   * My SQL
 
+ ---
+ ### 자격증
+
 
 <!--
 **Minsu0118/Minsu0118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
