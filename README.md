@@ -54,21 +54,21 @@ Subject: S/W Engineering
 1. ![기본 Form 구성](https://github.com/Minsu0118/Minsu0118/blob/main/SmartSelect_20250326-122112_ChatGPT.jpg)
 
 2. 상황 별 태그
- * 제목 태그: <h1> ~ <h6> (크기가 점점 작아짐)
+ ** 제목 태그: <h1> ~ <h6> (크기가 점점 작아짐)
 
- * 문단 태그: <p>
+ ** 문단 태그: <p>
 
- * 링크 태그: <a href="URL">텍스트</a>
+ ** 링크 태그: <a href="URL">텍스트</a>
 
- * 이미지 태그: <img src="이미지경로" alt="설명">
+ ** 이미지 태그: <img src="이미지경로" alt="설명">
 
- * 목록 태그:
+ ** 목록 태그:
 
-   ** 순서 없는 목록: <ul> <li>항목</li> </ul>
+   *** 순서 없는 목록: <ul> <li>항목</li> </ul>
 
-   ** 순서 있는 목록: <ol> <li>항목</li> </ol>
+   *** 순서 있는 목록: <ol> <li>항목</li> </ol>
 
-   ** 표 태그: <table>, <tr>, <td>, <th>
+   *** 표 태그: <table>, <tr>, <td>, <th>
 
 ---
 #### JAVA
