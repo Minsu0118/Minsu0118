@@ -10,7 +10,11 @@ Dob: 12.04.2002
 submit: S/W Engineering
 
 ---
-
+Skill
+*FRONT END
+  *HTML
+  *CSS
+  *JAVA Script
 
 
 <!--
