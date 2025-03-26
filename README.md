@@ -49,7 +49,8 @@ submit: S/W Engineering
 
 ---
 ### 학습노트
-** ![짝수인지 홀수인지 판단하는 프로그램을 삼항 조건연산자 간단문제](https://github.com/Minsu0118/Minsu0118/blob/main/%ED%95%99%EC%8A%B5%EB%85%B8%ED%8A%B8.PNG)
+#### JAVA
+1. Java 개요
 
 
  
