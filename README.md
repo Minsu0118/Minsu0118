@@ -12,11 +12,15 @@ submit: S/W Engineering
 ---
 ### Skill
 
-* FRONT END
+* Front-end
   * HTML
   * CSS
   * JAVA Script
-* BACK END
+* Back-end
+  * JAVA
+  * C#
+* Data
+  * My SQL
 
 
 <!--
