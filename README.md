@@ -9,7 +9,7 @@ Tel: 010-9127-0642
 
 Dob: 12.04.2002
 
-submit: S/W Engineering
+Subject: S/W Engineering
 
 ---
 ### Skill
