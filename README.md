@@ -89,61 +89,58 @@
      }
 
 5. 제어문
-import java.util.Iterator;
+public class Multiples {
+    public static void main(String[] args) {
+        int max = 0; // 가장 큰 7의 배수를 저장할 변수
 
-public class Ex08_01 {
-/* 08장/제어문을 보조하는 보조 제어문.pdf No.13 1번 문제
- * 1부터 100사이의 자연수중에서 제일 큰 7의 배수를 구하
- * 는 프로그램을 작성하시오.  (Ex08_01.java-> for,if,%등)
- * 단, 100부터 1까지 1씩 감소하면서 반복하지 말고 1부터 100까지 반복해서 구한다.
- * */
-	public static void main(String[] args) {
-		//답안 코드
-		int max =0;
-		
-		for (int i=1;i<=100;i++) {
-			if(i %7 ==0) {
-				max = i;
-			}
-		}System.out.println("제일 큰 7의 배수: "+ max);
-		
-		System.out.println("===============\n");
-		
-		
-		for (int i=100;i>=1;i--) {
-			if(i %7 ==0) {
-				break;
-			}
-		}System.out.println("제일 큰 7의 배수: "+ max);
-		
-		System.out.println("===============\n");
-	
-		int sevenMax = 0;
-		int n;
-		for(n=1;n<=100;n++) {
-			if(n %7 == 0) {
-				sevenMax = n;
-			}
-		}
-		System.out.printf("7의 배수중 가장 큰 값=%d\n", sevenMax);
-		
-		System.out.println("===============\n");
-		
-		/* 2번 문제) 100부터 1까지 1씩 감소하면서 for 반복운동을 활용하여 6의
-		 * 배수중 최대값을 구하는 코드를 만들어 보자.
-		 * */
-		//답안코드
-		int m;
-		
-		for (m = 100; m >= 1; m--) {
-			if(m %6 == 0) {
-				break;
-			}
-		}System.out.println("6의 배수 중 최대값:"+m);
-		
-	}
+        // 1부터 100까지 반복하면서 7의 배수를 찾음
+        for (int i = 1; i <= 100; i++) {
+            if (i % 7 == 0) { // 7의 배수인지 확인
+                max = i; // 가장 마지막으로 찾은 7의 배수가 최대값이 됨
+            }
+        }
+        System.out.println("제일 큰 7의 배수: " + max);
+        System.out.println("===============\n");
 
+        // 100부터 1까지 감소하면서 7의 배수를 찾음
+        for (int i = 100; i >= 1; i--) {
+            if (i % 7 == 0) { // 7의 배수인지 확인
+                max = i; // 첫 번째로 찾은 7의 배수가 최대값이 됨
+                break; // 찾았으면 반복문 종료
+            }
+        }
+        System.out.println("제일 큰 7의 배수: " + max);
+        System.out.println("===============\n");
+
+        int sevenMax = 0; // 7의 배수 중 최대값을 저장할 변수
+        int n;
+
+        // 1부터 100까지 반복하면서 7의 배수를 찾음
+        for (n = 1; n <= 100; n++) {
+            if (n % 7 == 0) { // 7의 배수인지 확인
+                sevenMax = n; // 가장 마지막으로 찾은 7의 배수가 최대값이 됨
+            }
+        }
+        System.out.printf("7의 배수 중 가장 큰 값=%d\n", sevenMax);
+        System.out.println("===============\n");
+
+        /*
+         * 2번 문제) 100부터 1까지 1씩 감소하면서 for 반복문을 활용하여
+         * 6의 배수 중 최대값을 구하는 코드를 만들어 보자.
+         */
+        
+        int m;
+
+        // 100부터 1까지 감소하면서 6의 배수를 찾음
+        for (m = 100; m >= 1; m--) {
+            if (m % 6 == 0) { // 6의 배수인지 확인
+                break; // 첫 번째로 찾은 6의 배수가 최대값이므로 반복문 종료
+            }
+        }
+        System.out.println("6의 배수 중 최대값: " + m);
+    }
 }
+
 
 7. 배열 문법_기본
 * public class ArrayEx01 {
