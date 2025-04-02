@@ -94,6 +94,7 @@ public class Multiples {
 
 
 7. 배열 문법_기본
+
 * public class ArrayEx01 {
  /*배영이라 동일한 타입의 하나 이상 복수개의 원소값을 고정된 추가로 한꺼번에
  * 저장하기 위해서 사용하는 것울 말한다.
