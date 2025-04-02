@@ -47,7 +47,7 @@
 
 ------------------------------
 ### 학습노트
-<a href="https://example.com" style="text-decoration: none;">[Minsu0118](./Study.md)</a>
+-[학습노트](./Study.md)
 
 
 <!--
