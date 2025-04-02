@@ -14,12 +14,12 @@
 ### Skill
 
 * Front-end
-  * **HTML **
-  * **CSS **
-  * **JAVAScript **
+  * **HTML
+  * **CSS
+  * **JAVAScript
 * Back-end
-  * **JAVA **
-  * **C# **
+  * **JAVA
+  * **C#
 * Data
   * **My SQL **
 
