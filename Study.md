@@ -106,7 +106,6 @@ public class Multiples {
 		score[2]=99;
 		score[3]=80;
 		score[4]=97;
-		
 		System.out.printf("배열 크기=%d\n", score.length);//배열 크기 인 배열원소개수는
 		//배열명.length로 반환한다.
 		
