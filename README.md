@@ -47,7 +47,8 @@
 
 ------------------------------
 ### 학습노트
--[Minsu0118](./Study.md)
+<a href="https://example.com" style="text-decoration: none;">[Minsu0118](./Study.md)</a>
+
 
 <!--
 **Minsu0118/Minsu0118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
