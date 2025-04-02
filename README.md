@@ -14,14 +14,14 @@
 ### Skill
 
 * Front-end
-  * **HTML (8)**
-  * **CSS (8)**
-  * **JAVA Script (7)**
+  * **HTML **
+  * **CSS **
+  * **JAVAScript **
 * Back-end
-  * **JAVA (7.5)**
-  * **C# (7.5)**
+  * **JAVA **
+  * **C# **
 * Data
-  * **My SQL (7.5)**
+  * **My SQL **
 
  ---
  ### 자격증
