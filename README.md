@@ -33,7 +33,9 @@
 
  ---
  ### 프로젝트
- -[Minsu0118](./Project.md)
+ -[Minsu0118](./Project01.md)
+ -[Minsu0118](./Project02.md)
+ 
  
  ### 온라인 강의
  * 이젠 강의(프로그래밍)
