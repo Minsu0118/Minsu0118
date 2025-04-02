@@ -86,7 +86,7 @@
 
 
       return ;
- 5. 배열 문법
+ 5. 배열 문법_기본
    *
 public class ArrayEx01 {
 /*
