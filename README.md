@@ -35,7 +35,7 @@
 
  ---
  ### 프로젝트
- -[Minsu0118](./Project01.md)
+ -[AI 챗봇(GOOD RECIPE)](./Project01.md)
  
  -[Minsu0118](./Project02.md)
  
