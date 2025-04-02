@@ -8,20 +8,21 @@
 
 
 * 서일대학교(재학중2025)
-* 대경상업고등학교(졸업2021)
-
+ * 소프트웨어 공학
+* 대경상업고등학교(2018~2021)
+ * 소프트웨어 디자인
 ---
 ### Skill
 
 * Front-end
-  * **HTML
-  * **CSS
-  * **JAVAScript
+  * HTML
+  * CSS
+  * JAVAScript
 * Back-end
-  * **JAVA
-  * **C#
+  * JAVA
+  * C#
 * Data
-  * **My SQL **
+  * My SQL
 
  ---
  ### 자격증
