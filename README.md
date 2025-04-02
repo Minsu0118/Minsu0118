@@ -7,7 +7,8 @@
 
 
 
-Subject: S/W Engineering
+서일대학교(재학중)
+대경상업고등학교(졸업)
 
 ---
 ### Skill
