@@ -37,7 +37,7 @@
  ### 프로젝트
  -[AI 챗봇(GOOD RECIPE)](./Project01.md)
  
- -[AI 레시피 추천서비스 앱](./Project02.md)
+ -[AI 레시피 추천서비스(Food maker)](./Project02.md)
  
  
  ### 온라인 강의
