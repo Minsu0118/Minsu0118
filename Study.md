@@ -98,6 +98,7 @@ public class Multiples {
    저장하기 위해서 사용하는 것울 말한다.
    new 키워드를 사용한 배열 생성법)
    타입[] 배열명 = new 타입[배열크기)*/
+   
  public class ArrayEx01 {
 	public static void main(String[] args) {
 		int[] score = new int[5];
@@ -106,6 +107,7 @@ public class Multiples {
 		score[2]=99;
 		score[3]=80;
 		score[4]=97;
+
 		System.out.printf("배열 크기=%d\n", score.length);//배열 크기 인 배열원소개수는
 		//배열명.length로 반환한다.
 		
@@ -117,8 +119,5 @@ public class Multiples {
 	}
 }
 
-
-
-     }
  
 
