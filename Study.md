@@ -62,7 +62,7 @@
 
 
 7. 제어문
-''java
+```java
 public class Multiples {
     public static void main(String[] args) {
         int max = 0; // 가장 큰 7의 배수를 저장할 변수
@@ -114,7 +114,7 @@ public class Multiples {
         System.out.println("6의 배수 중 최대값: " + m);
     }
 }
-''
+```
 
 9. 배열 문법_기본
 /*배열이라 동일한 타입의 하나 이상 복수개의 원소값을 고정된 추가로 한꺼번에
