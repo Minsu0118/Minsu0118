@@ -4,10 +4,6 @@
 기술적 성장과 협업을 통해 사용자 경험을 개선하는 데 집중합니다.
 ---
 
-
-
-
-
 * 서일대학교(2021~2025(재학중))
   * 소프트웨어 공학
 * 대경상업고등학교(2018~2021)
@@ -34,9 +30,9 @@
  ---
  
  ### 프로젝트
- -[AI 챗봇(GOOD RECIPE)](./Project01.md)
+ -[AI 챗봇(GOOD RECIPE)](./Project01.md, "GOOD RECIPE")
  
- -[AI 레시피 추천서비스(Food maker)](./Project02.md)
+ -[AI 레시피 추천서비스(Food maker)](./Project02.md, "Food maker")
  
  ---
  
