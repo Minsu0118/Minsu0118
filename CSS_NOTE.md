@@ -18,7 +18,7 @@ HTML이 웹사이트의 뼈대라면, CSS는 옷, 화장, 인테리어라고 할
 ---
 
 ## HTML + CSS
-```html
+```css
 <!DOCTYPE html>
 <html>
 <head>
