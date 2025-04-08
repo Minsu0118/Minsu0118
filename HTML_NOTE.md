@@ -21,7 +21,12 @@ HTML은 우리가 웹사이트를 만들 때 뼈대를 만드는 재료입니다
   </head>
   <body>
     <h1>안녕하세요!</h1>
-    <p>이건 HTML로 만든 페이지예요.</p>
+    <p>My Name is minsuPark</p>
   </body>
 </html>
 ```
+
+---
+자주 쓰는 HTML태그
+
+태그-하는 일
