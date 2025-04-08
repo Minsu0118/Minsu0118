@@ -12,7 +12,7 @@
 
 ## Skill
 * Front-end
-  * [HTML](./HTML_NOTE.md)
+  * 🧱[HTML](./HTML_NOTE.md)
   * [CSS](./CSS_NOTE.md)
   * [JAVAScript](./JAVAScript_NOTE.md)
 * Back-end
