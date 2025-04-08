@@ -12,7 +12,7 @@
 
 ## Skill
 * Front-end
-  * HTML
+  * HTML[학습노트_HTML](./HTML_NOTE.md)
   * CSS
   * JAVAScript
 * Back-end
