@@ -17,3 +17,26 @@ HTML이 웹사이트의 뼈대라면, CSS는 옷, 화장, 인테리어라고 할
 
 ---
 
+## HTML + CSS
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    h1 {
+      color: blue;
+      font-size: 36px;
+      text-align: center;
+    }
+    p {
+      color: gray;
+      font-family: 'Arial';
+    }
+  </style>
+</head>
+<body>
+  <h1>안녕하세요!</h1>
+  <p>이건 CSS로 꾸민 웹페이지입니다.</p>
+</body>
+</html>
+```
