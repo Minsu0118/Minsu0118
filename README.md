@@ -13,13 +13,13 @@
 ## Skill
 * Front-end
   * [HTML](./HTML_NOTE.md)
-  * CSS
-  * JAVAScript
+  * [CSS](./CSS_NOTE.md)
+  * [JAVAScript](./JAVAScript_NOTE.md)
 * Back-end
-  * JAVA
-  * C#
+  * [JAVA](./JAVA_NOTE.md)
+  * [C#](./C#_NOTE.md)
 * Data
-  * My SQL
+  * [MYSQL](./MYSQL_NOTE.md)
  ---
  
  ## 자격증
