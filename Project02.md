@@ -3,8 +3,6 @@
 * AI 요리 추천 서비스(Food maker)
 * ![Food maker](https://github.com/Minsu0118/Minsu0118/blob/main/indexhome.png)
 
-   * 일상 속 문제를 해결해주거나, 삶의 질을 향상시키는 건강 앱
-
 # AI 기반 식단 & 영양 관리 앱
 - 개인 맞춤형 식단 추천-> AI 기반 건강 분석(칼로리) & 조언
 - 다른 사용자와 식단 공유, 레시피 추천
