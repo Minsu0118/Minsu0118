@@ -27,13 +27,14 @@ Botpress로 챗봇 인터페이스를 구축하고, Android Studio로 UI를 구�
 * 레시피 제공	조리 방법, 필요한 추가 재료, 시간 등 상세 정보 제공
 
 ## 🛠️ 기술 스택
-영역	기술
-챗봇 엔진	Botpress (v12.x)
-자연어 처리	Botpress NLU + 외부 API (옵션: OpenAI, Spoonacular 등)
-모바일 앱	Android Studio (Kotlin)
-백엔드	Firebase (Authentication, Firestore)
-디자인	Figma (UI 와이어프레임 및 프로토타이핑)
-🤖 Botpress Flow 구성
+* 영역	기술
+* 챗봇 엔진	Botpress (v12.x)
+* 자연어 처리	Botpress NLU + 외부 API (옵션: OpenAI, Spoonacular 등)
+* 모바일 앱	Android Studio (Kotlin)
+* 백엔드	Firebase (Authentication, Firestore)
+* 디자인	Figma (UI 와이어프레임 및 프로토타이핑)
+
+## 🤖 Botpress Flow 구성
 markdown
 복사
 편집
