@@ -40,7 +40,7 @@ Start
 * 메인 화면
 * ![GOOD Recipe](https://github.com/Minsu0118/Minsu0118/blob/main/GOOD%20RECIPE.png)
 * 추천 리스트 화면
-
+* ![c추천 창](https://github.com/Minsu0118/Minsu0118/blob/main/botpress_select.PNG)
 * 레시피 상세 팝업
 
 ## 💡 구현 중 어려웠던 점 & 해결 방법
