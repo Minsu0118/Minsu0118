@@ -4,7 +4,8 @@
  * ![GOOD Recipe](https://github.com/Minsu0118/Minsu0118/blob/main/GOOD%20RECIPE.png)
    * 사용자가 쉽고 빠르게, 가지고 있는 재료들을 주제로 만들 수 있는 요리의 레시피 추천 어플리케이션
    * Demo버전 <https://cdn.botpress.cloud/webchat/v2.3/shareable.html?configUrl=https://files.bpcontent.cloud/2024/12/03/05/20241203054619-IWT367AD.json>
----     
+     
+--- 
 ## 🧠 Botpress 기반 요리 레시피 추천 챗봇
 사용자가 입력한 가지고 있는 재료를 기반으로 만들 수 있는 요리 레시피를 추천해주는 AI 챗봇 앱입니다.
 Botpress로 챗봇 인터페이스를 구축하고, Android Studio로 UI를 구성하여 간단하고 직관적인 사용자 경험을 제공하도록 설계했습니다.
