@@ -1,7 +1,7 @@
 ---
  ## 프로젝트
 * AI 요리 추천 서비스(Food maker)
-* ![Food maker](https://github.com/Minsu0118/Minsu0118/blob/main/Food%20maker.png)
+* ![Food maker](https://github.com/Minsu0118/Minsu0118/blob/main/indexhome.png)
 
    * 일상 속 문제를 해결해주거나, 삶의 질을 향상시키는 건강 앱
 
