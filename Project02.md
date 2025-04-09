@@ -1,5 +1,5 @@
 ---
- ### 프로젝트
+ ## 프로젝트
 * AI 요리 추천 서비스(Food maker)
 * ![Food maker](https://github.com/Minsu0118/Minsu0118/blob/main/Food%20maker.png)
 
