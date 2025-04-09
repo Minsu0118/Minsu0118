@@ -22,15 +22,13 @@ Botpress로 챗봇 인터페이스를 구축하고, Android Studio로 UI를 구�
 
 ## 🧩 주요 기능
 기능	설명
-* 재료 입력	사용자가 가지고 있는 재료를 자연어로 입력
+* 재료 입력	사용자가 가지고 있는 재료를 ai챗봇의 질문목록에서 선택
 * 요리 추천	입력된 재료를 기반으로 가능한 요리 목록 추천
 * 레시피 제공	조리 방법, 필요한 추가 재료, 시간 등 상세 정보 제공
 
 ## 🛠️ 기술 스택
-* 영역	기술
 * 챗봇 엔진	Botpress (v12.x)
 * 자연어 처리	Botpress NLU + 외부 API (옵션: OpenAI, Spoonacular 등)
-* 모바일 앱	Android Studio (Kotlin)
 * 백엔드	Firebase (Authentication, Firestore)
 * 디자인	Figma (UI 와이어프레임 및 프로토타이핑)
 
@@ -39,6 +37,7 @@ markdown
 복사
 편집
 Start
+└─ ai 챗봇질문 목록(고기, 야채, 생선, 아침, 점심, 저녁....)
   └─ 사용자 재료 입력
         └─ 요리 추천 (재료 기반 필터링)
               └─ 상세 레시피 보기
