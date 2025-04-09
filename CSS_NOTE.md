@@ -47,6 +47,7 @@ HTML이 웹사이트의 뼈대라면, CSS는 옷, 화장, 인테리어라고 할
   <p style="color:red;">빨간 글씨</p>
 ```
 * 내부 스타일: <style> 태그 안에 작성
+* 
 * 외부 스타일시트: .css 파일로 따로 작성
 ```css
  <link rel="stylesheet" href="style.css">
