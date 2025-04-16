@@ -62,12 +62,11 @@ DELETE FROM users WHERE name = 'Alice';
 AND, OR, NOT
 
 ** 기타 조건
+```sql
 BETWEEN 10 AND 20
-
 LIKE '%ice'  -- 패턴 일치
-
 IN ('Alice', 'Bob')
-
+```
 ---
 5. 📊 정렬, 그룹화
 
