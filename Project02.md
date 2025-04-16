@@ -1,11 +1,12 @@
 ---
  ## 프로젝트
 * AI 요리 추천 서비스(냉장Go)
+```html
 <div style="display: flex; align-items: center;">
   <img src="./logo.png" alt="로고" width="100" style="margin-right: 20px;"/>
   <h2>AI 요리 추천 앱: 냉장Go</h2>
 </div>
-
+```
   
 ## 팀별 구성
 * 프론트엔드-김무일 박민수
