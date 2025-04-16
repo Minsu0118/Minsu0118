@@ -12,7 +12,7 @@ if (age > 20) {
 } else {
   console.log("미성년자");
 }
-```
+
 for (let i = 0; i < 3; i++) {
   console.log(i);
 }
@@ -20,6 +20,7 @@ for (let i = 0; i < 3; i++) {
 while (age < 30) {
   age++;
 }
+```
 3. 🧠 함수
 
 function greet(name) {
