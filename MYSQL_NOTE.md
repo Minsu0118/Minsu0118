@@ -7,18 +7,16 @@
 **SQL(Structured Query Language)**로 데이터 조작
 
 2. 🧱 데이터베이스 기본 구조
-scss
-복사
-편집
 Database > Table > Row(레코드) > Column(속성)
-3. 🛠️ 자주 쓰는 SQL 문법
+
+4. 🛠️ 자주 쓰는 SQL 문법
 3.1 데이터베이스 & 테이블
-sql
-복사
-편집
+
 -- 데이터베이스 생성 & 사용
+```sql
 CREATE DATABASE mydb;
 USE mydb;
+```
 
 -- 테이블 생성
 CREATE TABLE users (
@@ -33,30 +31,22 @@ SHOW TABLES;
 -- 테이블 구조 보기
 DESCRIBE users;
 3.2 데이터 추가 (INSERT)
-sql
-복사
-편집
+
+
 INSERT INTO users (name, age) VALUES ('Alice', 25);
 3.3 데이터 조회 (SELECT)
-sql
-복사
-편집
+
+
 SELECT * FROM users;
 SELECT name FROM users WHERE age > 20;
 3.4 데이터 수정 (UPDATE)
-sql
-복사
-편집
+
 UPDATE users SET age = 26 WHERE name = 'Alice';
 3.5 데이터 삭제 (DELETE)
-sql
-복사
-편집
+
 DELETE FROM users WHERE name = 'Alice';
 4. 🔍 WHERE 조건문
-sql
-복사
-편집
+
 -- 비교 연산자
 =, !=, <, >, <=, >=
 
