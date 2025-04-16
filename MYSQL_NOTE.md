@@ -28,17 +28,14 @@ CREATE TABLE users (
     age INT
 );
 ```
-
 -- 테이블 목록 보기
 ```sql
 SHOW TABLES;
 ```
-
 -- 테이블 구조 보기
 ```sql
 DESCRIBE users;
 ```
-
 3.2 데이터 추가 (INSERT)
 ```sql
 INSERT INTO users (name, age) VALUES ('Alice', 25);
