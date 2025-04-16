@@ -34,11 +34,11 @@
 
 ## 📷 UI 화면 예시
 * 메인 화면
-     * ![GOOD Recipe](https://github.com/Minsu0118/Minsu0118/blob/main/GOOD%20RECIPE.png)
+     * ![GOOD Recipe](./GOOD%20RECIPE.png)
 * 추천 리스트 화면
-     * ![추천 창](https://github.com/Minsu0118/Minsu0118/blob/main/botpress_select.PNG)
+     * ![추천 창](https://./botpress_select.PNG)
 * 레시피 상세 팝업
-     * ![기타 선택](https://github.com/Minsu0118/Minsu0118/blob/main/botpress_another.PNG)
+     * ![기타 선택](https://./botpress_another.PNG)
 
 ## 💡 구현 중 어려웠던 점
 * 재료 조합 다양성: 비슷한 재료로 인한 입력 오류/ 데이터 수집
