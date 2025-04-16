@@ -5,7 +5,7 @@
 데이터를 테이블 형태로 저장
 
 **SQL(Structured Query Language)**로 데이터 조작
-
+---
 2. 🧱 데이터베이스 기본 구조
    
 Database > Table > Row(레코드) > Column(속성)
@@ -35,25 +35,25 @@ SHOW TABLES;
 ```sql
 DESCRIBE users;
 ```
-
-
+---
 3.2 데이터 추가 (INSERT)
 ```sql
 INSERT INTO users (name, age) VALUES ('Alice', 25);
 ```
 3.3 데이터 조회 (SELECT)
-
-
+```sql
 SELECT * FROM users;
 SELECT name FROM users WHERE age > 20;
+```
 3.4 데이터 수정 (UPDATE)
-
+```sql
 UPDATE users SET age = 26 WHERE name = 'Alice';
+```
 3.5 데이터 삭제 (DELETE)
-
+```sql
 DELETE FROM users WHERE name = 'Alice';
+```
 4. 🔍 WHERE 조건문
-
 -- 비교 연산자
 =, !=, <, >, <=, >=
 
