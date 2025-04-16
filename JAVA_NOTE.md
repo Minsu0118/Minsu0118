@@ -22,24 +22,32 @@ return ;
 
 5. 반복문
    (for, while, do-while)
-   
+
+(for)
 ```java
-for(초기식; 조건식; 증감식;){
-	문장1;
-	문장2;
-	...
-	문장n;
+for (int i = 0; i < 5; i++) {
+    System.out.println("현재 i의 값: " + i);
 }
-   다음문장;
+
+(while)
+```java
+int i = 0;
+while (i < 5) {
+    System.out.println("현재 i의 값: " + i);
+    i++;  // i 값을 1씩 증가시킴
+}
 ```
 
-   **[동작 원리]**
-   
-   	1.처음에 초기값 실행
-   	2.조건식을 평가하여 참이면 문장1 ~ 문자n까지 실행
-   	3.증감식 실행
-   	4.조건식 평가허요 참이면 다시 문장1 ~ 문장n까지 실행
-   	5.거짓이면 반복문에서 벗어나 다음 문장이 실행
+(do-while)
+```java
+int i = 0;
+do {
+    System.out.println("현재 i의 값: " + i);
+    i++;  // i 값을 1씩 증가시킴
+} while (i < 5);
+```
+
+
 6.조건문
    (if, else if, switch)
 
