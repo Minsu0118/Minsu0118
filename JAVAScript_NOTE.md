@@ -87,6 +87,7 @@ let lengths = fruits.map(f => f.length);
 ```
 ---
 💡 프론트엔드 개발 흐름
+
 HTML: 뼈대
 
 CSS: 스타일
