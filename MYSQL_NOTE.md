@@ -92,7 +92,7 @@ SELECT *FROM users uJOIN orders o ON u.id = o.user_id;
 ---
 7. ✨ 기타 유용한 문법
 
-** 별칭
+** 이름
 ```sql
 SELECT name AS 사용자이름 FROM users;
 ```
