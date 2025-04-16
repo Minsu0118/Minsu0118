@@ -25,7 +25,7 @@ return ;
 
 (for)
 ```java
-for (int i = 0; i < 5; i++) {
+for (int i = 0; i < 8; i++) {
     System.out.println("현재 i의 값: " + i);
 }
 ```
@@ -33,7 +33,7 @@ for (int i = 0; i < 5; i++) {
 (while)
 ```java
 int i = 0;
-while (i < 5) {
+while (i < 4) {
     System.out.println("현재 i의 값: " + i);
     i++;  // i 값을 1씩 증가시킴
 }
@@ -45,7 +45,7 @@ int i = 0;
 do {
     System.out.println("현재 i의 값: " + i);
     i++;  // i 값을 1씩 증가시킴
-} while (i < 5);
+} while (i < 3);
 ```
 
 
@@ -54,14 +54,14 @@ do {
 
 (if)
 ```java
-age = 18
-if age >= 18:
-    print("성인입니다.")
+age = 24
+if age >= 24:
+    print("당신은 성인입니다.")
 ```
 
 (if else)
 ```java
-int score = 85;
+int score = 96;
 
 if (score >= 90) {
     System.out.println("A 학점");
@@ -104,7 +104,7 @@ switch (day) {
         break;
 }
 
-System.out.println(dayName);  // "수요일" 출력
+System.out.println(dayName);  // "요일" 출력
 ```
 
    
@@ -212,7 +212,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        printDetails("홍길동", 25);  // printDetails 메소드 호출
+        printDetails("박민수", 24);  // printDetails 메소드 호출
     }
 }
 ```
