@@ -11,7 +11,7 @@ Database > Table > Row(레코드) > Column(속성)
 
 ---
 3. 🛠️ 자주 쓰는 SQL 문법
----
+
 3.1 데이터베이스 & 테이블
 
 ** 데이터베이스 생성 & 사용
@@ -55,39 +55,50 @@ DELETE FROM users WHERE name = 'Alice';
 ```
 ---
 4. 🔍 WHERE 조건문
--- 비교 연산자
+** 비교 연산자
 =, !=, <, >, <=, >=
 
--- 논리 연산자
+** 논리 연산자
 AND, OR, NOT
 
--- 기타 조건
+** 기타 조건
 BETWEEN 10 AND 20
+
 LIKE '%ice'  -- 패턴 일치
+
 IN ('Alice', 'Bob')
+
+---
 5. 📊 정렬, 그룹화
 
--- 정렬
+** 정렬
+```sql
 SELECT * FROM users ORDER BY age DESC;
-
--- 그룹화
+```
+** 그룹화
+```sql
 SELECT age, COUNT(*) FROM users GROUP BY age;
-
+```
 -- 조건 있는 그룹화
+```sql
 HAVING COUNT(*) >= 2;
+```
+---
 6. 🔗 테이블 JOIN (기본)
 
--- INNER JOIN 예시
+** INNER JOIN 예시
 SELECT *
 FROM users u
 JOIN orders o ON u.id = o.user_id;
+
+---
 7. ✨ 기타 유용한 문법
 
--- 별칭
+** 별칭
 SELECT name AS 사용자이름 FROM users;
 
--- 중복 제거
+** 중복 제거
 SELECT DISTINCT age FROM users;
 
--- LIMIT (결과 수 제한)
+** LIMIT (결과 수 제한)
 SELECT * FROM users LIMIT 5;
