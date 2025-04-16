@@ -5,6 +5,7 @@
 데이터를 테이블 형태로 저장
 
 **SQL(Structured Query Language)**로 데이터 조작
+
 ---
 2. 🧱 데이터베이스 기본 구조
    
