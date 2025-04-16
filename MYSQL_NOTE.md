@@ -95,10 +95,14 @@ JOIN orders o ON u.id = o.user_id;
 7. ✨ 기타 유용한 문법
 
 ** 별칭
+```sql
 SELECT name AS 사용자이름 FROM users;
-
+```
 ** 중복 제거
+```sql
 SELECT DISTINCT age FROM users;
-
+```
 ** LIMIT (결과 수 제한)
+```sql
 SELECT * FROM users LIMIT 5;
+```
