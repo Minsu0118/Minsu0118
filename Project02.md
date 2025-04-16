@@ -1,7 +1,7 @@
 ---
  ## 프로젝트
 * AI 요리 추천 서비스(냉장Go)
-* ![냉장Go](https://github.com/Minsu0118/Minsu0118/blob/main/indexhome.png) 
+* ![냉장Go](./logo.png) 
   # 팀별 구성
 * 프론트엔드-김무일 박민수
 
