@@ -191,3 +191,27 @@ public class Multiples {
 			System.out.println("score["+i+"] = "+ score[i]);
 		}
 	}
+
+10.메소드
+특정 작업을 수행하는 코드 블록입니다. 자주 사용되는 코드들을 묶어두고, 필요할 때마다 호출하여 재사용할 수 있게 도와주는 기능
+
+```java
+반환타입 메소드이름(매개변수) {
+    // 메소드가 수행할 작업
+    // return 반환값;
+}
+```
+
+예제)
+```java
+public class Main {
+    public static void printDetails(String name, int age) {
+        System.out.println("이름: " + name);
+        System.out.println("나이: " + age);
+    }
+
+    public static void main(String[] args) {
+        printDetails("홍길동", 25);  // printDetails 메소드 호출
+    }
+}
+```
