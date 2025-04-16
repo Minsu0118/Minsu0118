@@ -43,9 +43,6 @@
  * 대우 국비 지원 프로그램_웹 클라우드 (보안)코딩
 ------------------------------
 
-## 학습노트
--[학습노트](./Study.md)
-
 
 <!--
 **Minsu0118/Minsu0118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
