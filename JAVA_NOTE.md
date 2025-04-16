@@ -28,6 +28,7 @@ return ;
 for (int i = 0; i < 5; i++) {
     System.out.println("현재 i의 값: " + i);
 }
+```
 
 (while)
 ```java
