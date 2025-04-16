@@ -12,7 +12,7 @@ Database > Table > Row(레코드) > Column(속성)
 4. 🛠️ 자주 쓰는 SQL 문법
 3.1 데이터베이스 & 테이블
 
--- 데이터베이스 생성 & 사용
+** 데이터베이스 생성 & 사용
 ```sql
 CREATE DATABASE mydb;
 USE mydb;
