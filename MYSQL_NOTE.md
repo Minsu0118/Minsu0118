@@ -9,6 +9,7 @@
    
 Database > Table > Row(레코드) > Column(속성)
 
+---
 3. 🛠️ 자주 쓰는 SQL 문법
 ---
 3.1 데이터베이스 & 테이블
