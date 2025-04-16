@@ -87,10 +87,9 @@ HAVING COUNT(*) >= 2;
 6. 🔗 테이블 JOIN (기본)
 
 ** INNER JOIN 예시
-SELECT *
-FROM users u
-JOIN orders o ON u.id = o.user_id;
-
+```sql
+SELECT *FROM users uJOIN orders o ON u.id = o.user_id;
+```
 ---
 7. ✨ 기타 유용한 문법
 
