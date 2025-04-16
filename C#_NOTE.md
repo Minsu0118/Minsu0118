@@ -13,10 +13,10 @@ class Program
 ---
 2. 📦 변수 & 자료형
 ```c#
-int age = 25;
-string name = "Alice";
+int age = 24;
+string name = "minsu";
 bool isActive = true;
-double height = 172.5;
+double height = 168.0;
 ```
 ---
 3. 🧠 조건문 & 반복문
@@ -28,7 +28,7 @@ if (age > 20) { Console.WriteLine("성인"); }
 // switch문
 switch (age)
 {
-    case 20: Console.WriteLine("스무살"); break;
+    case 20: Console.WriteLine("스물"); break;
     default: Console.WriteLine("다른 나이"); break;
 }
 ```
@@ -44,7 +44,7 @@ while (age < 30) { age++; }
 4. 📦 배열 & 리스트
 ```c#
 int[] nums = { 1, 2, 3 };
-List<string> names = new List<string> { "Tom", "Sue" };
+List<string> names = new List<string> { "Ring", "Su" };
 ```
 ---
 5. ⚙️ 메서드 (함수)
@@ -64,14 +64,14 @@ class Person
 
     public void SayHello()
     {
-        Console.WriteLine("Hi, I'm " + Name);
+        Console.WriteLine("HELLO, I'm " + Name);
     }
 }
 
 // 객체 생성
 Person p = new Person();
 p.Name = "Alice";
-p.Age = 30;
+p.Age = 24;
 p.SayHello();
 ```
 ---
@@ -82,12 +82,12 @@ string? msg = null;
 if (msg != null) Console.WriteLine(msg);
 
 // 문자열 보간
-string name = "Bob";
+string name = "minsu";
 Console.WriteLine($"Hello, {name}");
 
 // try-catch 예외 처리
 try {
-    int x = 10 / 0;
+    int x = 20 / 0;
 }
 catch (Exception e) {
     Console.WriteLine("에러: " + e.Message);
