@@ -2,16 +2,17 @@
 ```javasript
 let name = "Alice";     // 변수 선언 (변경 가능)
 const age = 25;         // 상수 선언 (변경 불가)
-```
 console.log(name);      // 출력
+```
+---
 2. 🔁 조건문 & 반복문
-
+```javascript
 if (age > 20) {
   console.log("성인");
 } else {
   console.log("미성년자");
 }
-
+```
 for (let i = 0; i < 3; i++) {
   console.log(i);
 }
