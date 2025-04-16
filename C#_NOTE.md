@@ -80,15 +80,19 @@ p.SayHello();
 // null 체크
 string? msg = null;
 if (msg != null) Console.WriteLine(msg);
-
+```
+```c#
 // 문자열 보간
 string name = "minsu";
 Console.WriteLine($"Hello, {name}");
-
+```
+```c#
 // try-catch 예외 처리
 try {
     int x = 20 / 0;
 }
+```
+```c#
 catch (Exception e) {
     Console.WriteLine("에러: " + e.Message);
 }
