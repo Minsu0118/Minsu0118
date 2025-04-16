@@ -1,7 +1,7 @@
 ---
  ## 프로젝트
 * AI 요리 추천 서비스(냉장Go)
-* <div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;">
   <img src="./logo.png" alt="로고" width="100" style="margin-right: 20px;"/>
   <h2>AI 요리 추천 앱: 냉장Go</h2>
 </div>
