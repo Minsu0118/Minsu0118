@@ -14,18 +14,20 @@ Database > Table > Row(레코드) > Column(속성)
 
 3.1 데이터베이스 & 테이블
 
-**데이터베이스 생성 & 사용
+** 데이터베이스 생성 & 사용
 ```sql
 CREATE DATABASE mydb;
 USE mydb;
 ```
 
-**테이블 생성
+** 테이블 생성
+```sql
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
     age INT
 );
+```
 
 -- 테이블 목록 보기
 SHOW TABLES;
