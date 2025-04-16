@@ -91,8 +91,6 @@ Console.WriteLine($"Hello, {name}");
 try {
     int x = 20 / 0;
 }
-```
-```c#
 catch (Exception e) {
     Console.WriteLine("에러: " + e.Message);
 }
