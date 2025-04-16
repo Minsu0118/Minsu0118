@@ -21,6 +21,7 @@ return ;
 ```
 
 5. 반복문
+   for, while, do-while
 ```java
 for(초기식; 조건식; 증감식;){
 	문장1;
