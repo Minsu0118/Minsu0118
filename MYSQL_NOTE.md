@@ -53,6 +53,7 @@ UPDATE users SET age = 26 WHERE name = 'Alice';
 ```sql
 DELETE FROM users WHERE name = 'Alice';
 ```
+---
 4. 🔍 WHERE 조건문
 -- 비교 연산자
 =, !=, <, >, <=, >=
@@ -65,9 +66,7 @@ BETWEEN 10 AND 20
 LIKE '%ice'  -- 패턴 일치
 IN ('Alice', 'Bob')
 5. 📊 정렬, 그룹화
-sql
-복사
-편집
+
 -- 정렬
 SELECT * FROM users ORDER BY age DESC;
 
@@ -77,17 +76,13 @@ SELECT age, COUNT(*) FROM users GROUP BY age;
 -- 조건 있는 그룹화
 HAVING COUNT(*) >= 2;
 6. 🔗 테이블 JOIN (기본)
-sql
-복사
-편집
+
 -- INNER JOIN 예시
 SELECT *
 FROM users u
 JOIN orders o ON u.id = o.user_id;
 7. ✨ 기타 유용한 문법
-sql
-복사
-편집
+
 -- 별칭
 SELECT name AS 사용자이름 FROM users;
 
