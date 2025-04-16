@@ -21,15 +21,18 @@ while (age < 30) {
   age++;
 }
 ```
+---
 3. 🧠 함수
-
+```javascript
 function greet(name) {
   return "Hello, " + name;
 }
 
 const sayHi = (name) => `Hi, ${name}`;  // 화살표 함수
+```
+---
 4. 📦 배열 & 객체
-
+```javascript
 let fruits = ["apple", "banana"];
 fruits.push("orange");
 
@@ -38,8 +41,10 @@ let person = {
   age: 30
 };
 console.log(person.name);
+```
+---
 5. 📄 DOM 조작
-
+```javascript
 // 요소 선택
 const btn = document.querySelector("#myBtn");
 
@@ -50,18 +55,24 @@ btn.addEventListener("click", () => {
 
 // 텍스트 변경
 document.querySelector("#title").textContent = "변경된 제목";
+```
+---
 6. 🧪 조건 짧게 쓰기
-
+```javascript
 let msg = age >= 20 ? "성인" : "미성년자";  // 삼항 연산자
 let userName = name || "Guest";            // null 대체
+```
+---
 7. 📬 비동기 처리 (fetch)
-
+```javascript
 fetch("https://api.example.com/data")
   .then(response => response.json())
   .then(data => console.log(data))
   .catch(err => console.error(err));
+```
+---
 8. ✨ 기타 유용 문법
-
+```javascript
 // 구조 분해
 const { name, age } = person;
 
@@ -73,6 +84,8 @@ fruits.forEach(f => console.log(f));
 
 // map
 let lengths = fruits.map(f => f.length);
+```
+---
 💡 프론트엔드 개발 흐름
 HTML: 뼈대
 
