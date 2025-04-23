@@ -16,7 +16,7 @@
   * ⚡[JAVAScript](./JAVAScript_NOTE.md)
 * 백엔드
   * ☕[JAVA](./JAVA_NOTE.md)
-  * 🎯[C#](./C#NOTE.md)
+  * 🎯[C#](./C#_NOTE.md)
 * Data
   * 🐬[MYSQL](./MYSQL_NOTE.md)
  
