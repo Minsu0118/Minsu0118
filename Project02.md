@@ -33,8 +33,7 @@
 ## 📷 UI 화면 예시
 * 실행 화면
      * ![GOOD Recipe](./Phone01.png)
-* 메인 화면
-     * ![GOOD Recipe](./Phone02.png)
+* 메인 화면![GOOD Recipe](./Phone02.png)
 * 냉장고 화면
      * ![GOOD Recipe](./Phone03.png)
 * 검색 화면
