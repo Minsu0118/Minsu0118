@@ -33,16 +33,11 @@
 ## 📷 UI 화면 예시
 * 실행 화면![GOOD Recipe](./Phone01.png)
 * 메인 화면![GOOD Recipe](./Phone02.png)
-* 냉장고 화면
-     * ![GOOD Recipe](./Phone03.png)
-* 검색 화면
-     * ![GOOD Recipe](./Phone04.png)
-* 리뷰 화면
-     * ![GOOD Recipe](./Phone05.png)
-* 메모 화면
-     * ![GOOD Recipe](./Phone06.png)
-* 칼로리 화면
-     * ![GOOD Recipe](./Phone07.png)
+* 냉장고 화면![GOOD Recipe](./Phone03.png)
+* 검색 화면![GOOD Recipe](./Phone04.png)
+* 리뷰 화면![GOOD Recipe](./Phone05.png)
+* 메모 화면![GOOD Recipe](./Phone06.png)
+* 칼로리 화면![GOOD Recipe](./Phone07.png)
 
 ## 🧠AI 기반 식단 & 영양 관리 앱
 - 개인 맞춤형 식단 추천-> AI 기반 건강 분석(칼로리) & 조언
