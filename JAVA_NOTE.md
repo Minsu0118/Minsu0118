@@ -20,7 +20,7 @@ return ;
 }
 ```
 
-5. 반복문
+## 반복문
    (for, while, do-while)
 
 (for)
@@ -49,7 +49,7 @@ do {
 ```
 
 
-6.조건문
+## 조건문
    (if, else if, switch)
 
 (if)
@@ -110,7 +110,7 @@ System.out.println(dayName);  // "요일" 출력
    
 
 
-7. 제어문
+## 제어문
 ```java
 public class Multiples {
     public static void main(String[] args) {
@@ -165,8 +165,7 @@ public class Multiples {
 }
 ```
 
-9. 배열 문법_기본
-
+## 배열 문법_기본
 ```java
 /*배열이란 동일한 타입의 하나 이상 복수개의 원소값을 고정된 추가로 한꺼번에
    저장하기 위해서 사용하는 것울 말한다.
@@ -220,7 +219,7 @@ for(row = 0; row < 5 ; row++){
 }
 ```
 
-10.메소드
+## 메소드
 특정 작업을 수행하는 코드 블록입니다. 자주 사용되는 코드들을 묶어두고, 필요할 때마다 호출하여 재사용할 수 있게 도와주는 기능
 
 ```java
@@ -229,7 +228,6 @@ for(row = 0; row < 5 ; row++){
     // return 반환값;
 }
 ```
-
 
 
 예제)
