@@ -306,10 +306,13 @@ var06=mt.abs(var05);
 System.out.println(var05 + "의 절대값은-> " + var06); 
 } 
 } 
+```
 
 ## 생성자
 1.생성자 이름 = 클래스 이름. new 클래스명();에 의해서 생성자 호출
+
 2.생성자의 주된 기능은 클래스 소속 멤버 변수중 인스턴스 변수 초기화 기능.
+
 3.생성자명 앞에 리턴타입은 정의하지 않는다.
 
 ```java
@@ -333,6 +336,42 @@ public class ConsEx01 {
 	public static void main(String[] args) {
 		MyDate21 d =new MyDate21();//new 클래스명();에 의해서 10번 줄 기본생성자 호출
 		d.pr();//객체명.메서드()에 의해서 해당 메서드를 호출해서 초기화 한 인스턴스 변수값 출력
+	}
+
+}
+```
+
+예제)
+```java
+class Member02{
+	private String mem_id;//회원 아이디
+	private String mem_name;//회원 이름
+	private String mem_addr;//회원주소->3개의 클래스 소속 멤버변수(속성) 정의
+	
+	public Member02() {//전달인자가 없는 생성자를 기본생성자라 한다. 기본 생성자는
+	//default(디폴트) 생성자이다. 생성자가 오버로딩이 안 되어 있을때는 자바 컴파일러가
+	//기본생성자를 묵시적 저공한다.
+		mem_id="kkkk"; mem_name="홀길동"; mem_addr="서울기 중랑구";//생성자릐 주된 기능인 멤버변수 초기화
+		
+	}
+	public Member02(String new_id, String new_name, String new_addr) {
+		mem_id=new_id; mem_name=new_name; mem_addr=new_addr;//생성자의 주된 기능인 멤버변수 초기화
+	}//전달인자 개수가 다른 생성자 오버로딩
+
+	public void print() {
+		System.out.println("회원 아이디:"+mem_id+", 회원 이름:"+mem_name+", 회원 주소:"+mem_addr);
+	}//사용자 정의 메서드 정의=>초기화 된 멤버변수 값을 출력하는 기능을 가진다.
+}
+
+public class ConsEx02 {
+
+	public static void main(String[] args) {
+		Member02 member=new Member02();//new Member02();에 의해서 전달인자가 없는 기본생성자를 호출
+		member.print();
+		
+		Member02 member2=new Member02("aaaaa", "이순신", "서울시 동대문구");//전달인자 3개짜리 오버로딩 된 생성자 호출
+		member2.print();//member와 member2는 서로 다른 객체주소를 가진다.
+
 	}
 
 }
