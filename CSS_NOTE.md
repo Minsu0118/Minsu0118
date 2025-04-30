@@ -48,3 +48,79 @@
  <link rel="stylesheet" href="style.css">
 ```
 
+## 활용예제_자기소개
+```css
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>CSS 활용 예제</title>
+  <style>
+    /* 전체 배경/ 기본 폰트 설정 */
+    body {
+      background-color: #f0f4f8;
+      font-family: "Segoe UI", sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* 상단 헤더 스타일 */
+    header {
+      background-color: #e598e6;
+      color: white;
+      padding: 18px;
+      text-align: center;
+    }
+
+    /* 섹션 박스 스타일 */
+    .container {
+      max-width: 620px;
+      margin: 30px auto;
+      background-color: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+      color: 9e9;
+    }
+
+    p {
+      line-height: 1.7;
+    }
+
+    /* 버튼 스타일 */
+    .btn {
+      background-color: #007acc;
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .btn:hover {
+      background-color: #005fa3;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- 헤더 영역 -->
+  <header>
+    <h1>자기 소개</h1>
+  </header>
+
+  <!-- 본문 영역 -->
+  <div class="container">
+    <h2>안녕하세요!</h2>
+    <p>저는 웹 개발을 배우고 있는 학생입니다. HTML과 CSS를 활용하여 다양한 UI를 구현하는 것을 좋아합니다.</p>
+  </div>
+
+</body>
+</html>
+
+```
