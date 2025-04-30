@@ -261,3 +261,48 @@ public class MethodTest01{
 	} 
 }
 ```
+
+예제)
+전달인자 자료형이 다른 메소드 오버로딩
+```java
+public class MethodTest02{ 
+//int형 데이터에대해서절대값을구하는메소드정의
+int abs(int num){
+if(num<0)
+
+ num=-num;
+return num;
+
+//long형 데이터에대해서절대값을구하는메소드정의
+long abs(long num){
+if(num<0)
+
+ num=-num;
+return num;
+}
+//double 데이터에 대해서절대값을구하는메소드정의
+double abs(double num){
+if(num<0) 
+ num=-num; 
+return num; 
+}
+
+public static void main(String[] args) { 
+MethodTest02 mt=new MethodTest02(); 
+ 
+//전달인자가int형이므로03:의int형데이터에대해서절대값을구하는메소드호출
+int var01=-10, var02; 
+var02=mt.abs(var01); 
+System.out.println(var01 + "의 절대값은-> " + var02); 
+
+//전달인자가long형이므로09:의long형데이터에대해서절대값을구하는메소드호출
+long var03=-20L, var04; 
+var04=mt.abs(var03); 
+System.out.println(var03 + "의 절대값은-> " + var04); 
+ 
+//전달인자가double형이므로15:의double형에대해서절대값을구하는메소드호출
+double var05=-3.4, var06; 
+var06=mt.abs(var05); 
+System.out.println(var05 + "의 절대값은-> " + var06); 
+} 
+} 
