@@ -199,17 +199,17 @@ int [][]score = new int [5][3];
 ```java
 public class Arr03 { 
 public static void main(String[] args) { 
-//정수값을담을수있는5행3열짜리기억공간이생성
+//정수값을 담을 수 있는 5행 3열짜리 기억공간이 생성
 int [][]score=new int [5][3]; 
 int row, col; //반복문에서사용할제어변수선언
-//행과열의위치를첨자로지정하여값대입
+//행과 열의 위치를 첨자로 지정하여 값 대입
 score[0][0]=10; score[0][1]=90; score[0][2]=70; 
 score[1][0]=60; score[1][1]=80; score[1][2]=65; 
 score[2][0]=55; score[2][1]=60; score[2][2]=85; 
 score[3][0]=90; score[3][1]=75; score[3][2]=95; 
 score[4][0]=60; score[4][1]=30; score[4][2]=80; 
 
-///반복문으로일괄처리
+///반복문으로 일괄처리
 for(row = 0; row < 5 ; row++){ 
  for(col = 0; col < 3 ; col++) 
    System.out.print(" " +score[row][col]); 
