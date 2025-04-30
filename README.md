@@ -10,7 +10,7 @@
   * 소프트웨어 공학
 
 ## 기술
-* 프로트엔드
+* 프론트엔드
   * 🧱[HTML](./HTML_NOTE.md)
   * 🎨[CSS](./CSS_NOTE.md)
   * ⚡[JAVAScript](./JAVAScript_NOTE.md)
