@@ -306,3 +306,34 @@ var06=mt.abs(var05);
 System.out.println(var05 + "의 절대값은-> " + var06); 
 } 
 } 
+
+## 생성자
+1.생성자 이름 = 클래스 이름. new 클래스명();에 의해서 생성자 호출
+2.생성자의 주된 기능은 클래스 소속 멤버 변수중 인스턴스 변수 초기화 기능.
+3.생성자명 앞에 리턴타입은 정의하지 않는다.
+
+```java
+class MyDate21{
+	private int year;//년도값
+	private int month;//월값
+	private int day;//일값, 3개의 속성정의(클래스 소속의 멤버변수 중 인스턴스 변수가 된다.)
+	
+	public MyDate21() {//전달 인자가 없는 기본 생성자 정의
+		year=2025; month=4; day=7;//생성자의 주된 기능인 인스턴스 변수 초기화 기능.
+		System.out.println("기본생성자 호출");
+	}
+	
+	public void pr() {
+		System.out.println(year+"년 " +month+"월 " +day+"일");
+	}
+}
+
+public class ConsEx01 {
+
+	public static void main(String[] args) {
+		MyDate21 d =new MyDate21();//new 클래스명();에 의해서 10번 줄 기본생성자 호출
+		d.pr();//객체명.메서드()에 의해서 해당 메서드를 호출해서 초기화 한 인스턴스 변수값 출력
+	}
+
+}
+```
