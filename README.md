@@ -19,11 +19,7 @@
   * 🎯[C#](./C샵_NOTE.md)
 * Data
   * 🐬[MYSQL](./MYSQL_NOTE.md)
- 
- 
- ## 자격증
 
- 
  ## 프로젝트
  -[AI 챗봇(GOOD RECIPE)](./Project01.md)
  
