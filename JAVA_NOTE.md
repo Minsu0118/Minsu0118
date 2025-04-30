@@ -193,10 +193,32 @@ public class Multiples {
 	}
 ```
 ## 다차원 배열
-
-'''java
+기본)
 int [][]score = new int [5][3];
-'''
+
+예제)
+```java
+public class Arr03 { 
+public static void main(String[] args) { 
+//정수값을담을수있는5행3열짜리기억공간이생성
+int [][]score=new int [5][3]; 
+int row, col; //반복문에서사용할제어변수선언
+//행과열의위치를첨자로지정하여값대입
+score[0][0]=10; score[0][1]=90; score[0][2]=70; 
+score[1][0]=60; score[1][1]=80; score[1][2]=65; 
+score[2][0]=55; score[2][1]=60; score[2][2]=85; 
+score[3][0]=90; score[3][1]=75; score[3][2]=95; 
+score[4][0]=60; score[4][1]=30; score[4][2]=80; 
+
+///반복문으로일괄처리
+for(row = 0; row < 5 ; row++){ 
+ for(col = 0; col < 3 ; col++) 
+   System.out.print(" " +score[row][col]); 
+ System.out.println(""); //행단위로 줄 바
+	} 
+    } 
+}
+```
 
 10.메소드
 특정 작업을 수행하는 코드 블록입니다. 자주 사용되는 코드들을 묶어두고, 필요할 때마다 호출하여 재사용할 수 있게 도와주는 기능
