@@ -28,13 +28,6 @@
  -[AI 챗봇(GOOD RECIPE)](./Project01.md)
  
  -[AI 레시피 추천서비스(냉장Go)](./Project02.md)
- 
-
- 
- ## 온라인 강의
- 
- ## 오프라인 프로그램
- 
 
 
 
