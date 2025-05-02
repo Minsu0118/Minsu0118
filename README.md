@@ -19,8 +19,7 @@
   * 🎯[C#](./C샵_NOTE.md)
 * Data
   * 🐬[MYSQL](./MYSQL_NOTE.md)
- 
-** 💻[통합 게시판 만들기(JAVA + SQL)](./MakeBoard.md)
+* 💻[통합 게시판 만들기(JAVA + SQL)](./MakeBoard.md)
 
 
  ## 프로젝트
