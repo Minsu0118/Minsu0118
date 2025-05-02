@@ -20,7 +20,8 @@
 * Data
   * 🐬[MYSQL](./MYSQL_NOTE.md)
  
-* 통합 게시판 만들기(JAVA + SQL)
+** 💻[통합 게시판 만들기(JAVA + SQL)](./MakeBoard.md)
+
 
  ## 프로젝트
  -[AI 챗봇(GOOD RECIPE)](./Project01.md)
