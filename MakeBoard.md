@@ -14,6 +14,7 @@ create table boards(
 );
 
 select * from boards order by bno desc;
+--boards 테이블에서 모든 레코드를 bno 컬럼을 기준으로 내림차순(desc) 정렬하여 조회하는 쿼리
 
 --seq_bno 시퀸스 생성
 create sequence seq_bno
