@@ -28,13 +28,14 @@
 
 
  ## 프로젝트
- [AI 챗봇(GOOD RECIPE)](./Project01.md)
+  * [AI 챗봇(GOOD RECIPE)](./Project01.md)
  
- [AI 레시피 추천서비스(냉장Go)](./Project02.md)
+  * [AI 레시피 추천서비스(냉장Go)](./Project02.md)
 
  ## 교육
  [온라인](./online.md)
- 
+
+ ## 활동
  [오프라인](./offline.md)
 
 
