@@ -3,8 +3,12 @@
 
      * [수료증](./online1.pdf)
 
-   * 2025학년도 1학기 언택트 진로특강(e-Campus)-[수료증](./online2.pdf)-
+   * 2025학년도 1학기 언택트 진로특강(e-Campus)
    
-   * 2025학년도 1학기 언택트 취업특강(e-Campus)-[수료증](./online3.pdf)-
+     * [수료증](./online2.pdf)
+   
+   * 2025학년도 1학기 언택트 취업특강(e-Campus)
+   
+     * [수료증](./online3.pdf)
 
   
