@@ -1,3 +1,7 @@
+#프로젝트 개요
+* 목표: 누구나 쉽게 연락처를 저장, 확인, 수정할 수 있는 웹 기반 전화번호부 구현
+* 주요 기능 요약: CRUD, 검색, 이미지 업로드, LocalStorage 저장
+
 # 구성화면
 * 메인 화면 <img src="./Daewo_pj_main.png" alt="메인 페이지" width="600" height="300"/>
 * 연락처 추가화면 <img src="./Daewo_pj_make2.png" alt="연락처 추가" width="600" height="300"/>
