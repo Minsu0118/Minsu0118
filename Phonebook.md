@@ -1,5 +1,8 @@
 # HTML
 
+# 구성화면
+
+
 * 메인 페이지
 ```html
 <!DOCTYPE html>
