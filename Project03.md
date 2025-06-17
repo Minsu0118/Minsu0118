@@ -1,8 +1,8 @@
-## <p>$\large{\rm{\color{#5ad7b7}PCEat}}$</p> PC방 푸드 포인트 웹 사이트_
+## <p>$\large{\rm{\color{#5ad7b7}PCEat}}$</p> PC방 푸드 포인트 웹 사이트
 
 
 
-# DB 형태
+# DB 구성
 <img src="./PC_DB.png" alt="PCEat DB" width="700" height="300"/>
 
 1. 유저 테이블
