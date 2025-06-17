@@ -4,5 +4,5 @@
 
 
 # DB 형태
-<img src="./PC_DB.png" alt="PCEat DB" width="300"/>
+<img src="./PC_DB.png" alt="PCEat DB" width="300" height="300"/>
 
