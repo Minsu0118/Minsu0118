@@ -1,4 +1,5 @@
-<p>$\large{\rm{\color{#21baed}PCEat(피씨잇)}}$</p> PC방 푸드 포인트 웹 사이트
+<p>$\large{\rm{\color{#21baed}PCEat(피씨잇)}}$</p> PC방 푸드 포인트 웹 사이트  <img src="./PCEat_icon.png" alt="PCEat DB" width="500" height="400"/>
+
 
 # 프로젝트 개요
   * PC방 이용 고객을 위한 음식 주문 포인트 적립 웹서비스 개발을 목표로 합니다.
