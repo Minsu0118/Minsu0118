@@ -15,7 +15,24 @@
 | 검색 기능 | 	입력한 키워드로 연락처를 필터링                |
 | 이미지 업로드	 | 	프로필 사진 선택 및 미리보기                |
 | LocalStorage	 | 데이터를 브라우저에 영구 저장                |
-  
+
+# 페이지 구성
+  1. index.html – 메인 페이지 (연락처 목록)
+    * localStorage에서 연락처 목록을 불러와서 출력
+    * 각 연락처는 클릭 시 main.html?edit=인덱스로 이동
+    * 상단 플러스 버튼을 통해 새 연락처 추가 가능 (sub.html로 이동)
+    * 검색창이 존재하나 현재 검색 기능 스크립트는 미구현 상태
+
+  2. main.html – 연락처 상세 페이지
+    * URL 파라미터(?edit=인덱스)를 이용해 해당 연락처 정보 표시
+    * 뒤로 가기(index.html), 삭제, 수정 버튼 존재
+    * 삭제 시 confirm() 후 localStorage에서 삭제
+    * 수정 버튼 클릭 시 sub.html?edit=인덱스로 이동
+
+  3. sub.html – 연락처 추가/수정 페이지
+    * edit=인덱스 존재 여부에 따라 수정 or 추가 동작
+    * 이미지 업로드 가능 (클릭 시 input[type="file"] 실행)
+    * 저장 시 localStorage에 반영 후 index.html로 이동
 
 # HTML
 * 메인 페이지
