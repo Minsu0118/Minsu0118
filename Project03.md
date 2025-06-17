@@ -1,4 +1,4 @@
-## <p>$\large{\rm{\color{#5ad7b7}PCEat}}$$</p> PC방 푸드 포인트 웹 사이트
+## <p>$\large{\rm{\color{#5ad7b7}PCEat}}$</p> PC방 푸드 포인트 웹 사이트
 
 
 
