@@ -23,7 +23,7 @@
    * 적립된 포인트를 사용해 음식 결제 시 할인을 받거나경품 이벤트, 기간 한정 프로모션 등 다양한 혜택에 참여 가능→ 고객 충성도 강화 및 마케팅 활용도 증가
   
  # 순서도
-  * <img src="./PcEat num.png" alt="PCEat DB" width="700" height="300"/>
+  * <img src="./PcEat num.png" alt="PCEat DB" width="500" height="300"/>
   
  # 진행 계획
   * 역할 분담
