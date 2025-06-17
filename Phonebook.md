@@ -145,7 +145,7 @@
 </html>
 ```
 
-# 연락처 수정 페이지
+* 연락처 수정 페이지
 ```html
 <!DOCTYPE html>
 <html lang="ko">
