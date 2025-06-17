@@ -1,5 +1,5 @@
 # 구성화면
-* 메인 화면 [main page](./Daewo_pj_main.png)
+* 메인 화면 ![main page](./Daewo_pj_main.png)
 
 # HTML
 
