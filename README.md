@@ -21,11 +21,8 @@
   * 🐬[MYSQL](./MYSQL_NOTE.md)
 * 💻[통합 게시판 만들기(JAVA + SQL)](./MakeBoard.md)
 
-## 외부 프로젝트
- * [서버](.)
- * [자바](.)
- * [html,css,javascript](.)
-
+## 오프라인 프로그램 교육
+ * [대우 웹보안 개발자](/Daewo.md)
 
  ## 프로젝트
   * [AI 챗봇(GOOD RECIPE)](./Project01.md)
