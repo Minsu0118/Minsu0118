@@ -1,4 +1,4 @@
-## PC방 푸드 포인트 웹 사이트_<p>$\huge{\rm{\color{#5ad7b7}큰글씨\ 로만체\ 초록색}}$</p>
+## PC방 푸드 포인트 웹 사이트_<p>$\huge{\rm{\color{#5ad7b7}PCEat}}$</p>
 
 
 
