@@ -7,6 +7,8 @@
 <img src="./PC_DB.png" alt="PCEat DB" width="300" height="300"/>
 
 1. 유저 테이블
+
+```db
 CREATE TABLE users (
   id INT AUTO_INCREMENT PRIMARY KEY COMMENT '유저 고유 ID',
   username VARCHAR(100) NOT NULL COMMENT '유저 이름',
@@ -14,8 +16,9 @@ CREATE TABLE users (
   total_points INT DEFAULT 0 COMMENT '누적 포인트',
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP COMMENT '가입일시'
 ) COMMENT='유저 정보';
+```
 
-2. 메뉴(상품) 테이블
+3. 메뉴(상품) 테이블
 CREATE TABLE menus (
   id INT AUTO_INCREMENT PRIMARY KEY COMMENT '메뉴 고유 ID',
   name VARCHAR(100) NOT NULL COMMENT '상품 이름',
@@ -24,7 +27,7 @@ CREATE TABLE menus (
   category VARCHAR(50) COMMENT '분류 (밥, 면, 분식, 음료 등)'
 ) COMMENT='상품(메뉴) 정보';
 
-3. 장바구니 테이블
+4. 장바구니 테이블
 CREATE TABLE carts (
   id INT AUTO_INCREMENT PRIMARY KEY COMMENT '장바구니 항목 ID',
   user_id INT NOT NULL COMMENT '유저 ID',
@@ -34,7 +37,7 @@ CREATE TABLE carts (
   FOREIGN KEY (menu_id) REFERENCES menus(id)
 ) COMMENT='장바구니';
 
-4. 주문 테이블
+5. 주문 테이블
 CREATE TABLE orders (
   id INT AUTO_INCREMENT PRIMARY KEY COMMENT '주문 ID',
   user_id INT NOT NULL COMMENT '주문자 유저 ID',
@@ -45,7 +48,7 @@ CREATE TABLE orders (
   FOREIGN KEY (user_id) REFERENCES users(id)
 ) COMMENT='주문 내역';
 
-5. 주문 상세 테이블
+6. 주문 상세 테이블
 CREATE TABLE order_items (
   id INT AUTO_INCREMENT PRIMARY KEY COMMENT '주문 상세 ID',
   order_id INT NOT NULL COMMENT '주문 ID',
@@ -57,7 +60,7 @@ CREATE TABLE order_items (
   FOREIGN KEY (menu_id) REFERENCES menus(id)
 ) COMMENT='주문 상세 항목';
 
-6. 쿠폰 테이블
+7. 쿠폰 테이블
 CREATE TABLE coupons (
   id INT AUTO_INCREMENT PRIMARY KEY COMMENT '쿠폰 ID',
   user_id INT NOT NULL COMMENT '유저 ID',
@@ -68,7 +71,7 @@ CREATE TABLE coupons (
   FOREIGN KEY (user_id) REFERENCES users(id)
 ) COMMENT='쿠폰 정보';
 
-7. 포인트 내역 테이블
+8. 포인트 내역 테이블
 CREATE TABLE point_histories (
   id INT AUTO_INCREMENT PRIMARY KEY COMMENT '포인트 내역 ID',
   user_id INT NOT NULL COMMENT '유저 ID',
