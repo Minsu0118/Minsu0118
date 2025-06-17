@@ -11,7 +11,7 @@
 * Frontend: HTML, CSS, JavaScript (Vanilla JS 기반)
 * Storage: LocalStorage (브라우저 내부 데이터 저장)
 
-# 핵심 기능 시연 흐름도 or 다이어그램
+# 핵심 기능 시연 흐름도
 * 사용자 흐름 (Flow)
   ```scss
     index.html (목록 조회 및 검색)
