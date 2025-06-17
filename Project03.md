@@ -80,9 +80,8 @@
 # DB 구성
 <img src="./PC_DB.png" alt="PCEat DB" width="700" height="300"/>
 
-1. 유저 테이블
-
 ```db
+1. 유저 테이블
 CREATE TABLE users (
   id INT AUTO_INCREMENT PRIMARY KEY COMMENT '유저 고유 ID',
   username VARCHAR(100) NOT NULL COMMENT '유저 이름',
