@@ -3,6 +3,11 @@
 * 연락처 추가화면 <img src="./Daewo_pj_make2.png" alt="연락처 추가" width="500" height="300"/>
 * 연락처 삭제<img src="./Daewo_pj_del.png" alt="연락처 추가" width="500" height="300"/>
 * 추가된 연락처 <img src="./Daewo_pj_main2.png" alt="추가된 연락처 메인 페이지" width="500" height="300"/>
+
+# 기능
+| Widget    | Description                                    |
+| ---------- | ---------------------------------------------- |
+| CustomAppbar | 직접 만들어 본 커스텀 앱바입니다.                |
   
 
 # HTML
