@@ -42,6 +42,19 @@
       
       * 저장 시 localStorage에 반영 후 index.html로 이동
 
+  # 데이터 저장 방식
+  ```json
+[
+  {
+    "name": "홍길동",
+    "phone": "010-1234-5678",
+    "email": "hong@example.com",
+    "image": "data:image/png;base64,..."
+  },
+  ...
+]
+```
+
 # HTML
 * 메인 페이지
 ```html
