@@ -2,7 +2,23 @@
 * 목표: 누구나 쉽게 연락처를 저장, 확인, 수정할 수 있는 웹 기반 전화번호부 구현
 * 주요 기능 요약: CRUD, 검색, 이미지 업로드, LocalStorage 저장
 
-# 
+# 기술스택
+* Frontend: HTML, CSS, JavaScript (Vanilla JS 기반)
+* Storage: LocalStorage (브라우저 내부 데이터 저장)
+
+# 핵심 기능 시연 흐름도 or 다이어그램
+* 사용자 흐름 (Flow)
+  ```scss
+    index.html (목록 조회 및 검색)
+    ↓ (+ 버튼)
+  sub.html (연락처 추가)
+    ↓ (저장)
+  index.html
+    ↓ (연락처 클릭)
+  main.html (상세 보기)
+    ↓ (수정 or 삭제)
+  sub.html (수정 후 저장)
+  ```
 
 # 구성화면
 * 메인 화면 <img src="./Daewo_pj_main.png" alt="메인 페이지" width="600" height="300"/>
