@@ -1,6 +1,6 @@
 # 구성화면
 * 메인 화면 ![main page](./Daewo_pj_main.png)
-* 연락처 추가화면 <img src="./Daewo_pj_make.png" alt="연락처 추가" width="300"/>
+* 연락처 추가화면 <img src="./Daewo_pj_make.png" alt="연락처 추가" width="300"/>연락처 추가화면 <img src="./Daewo_pj_make.png" alt="연락처 추가" width="300"/>
 
 # HTML
 
