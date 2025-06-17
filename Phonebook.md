@@ -1,5 +1,5 @@
 # 구성화면
-* 메인 화면 <img src="./Daewo_pj_main.png" alt="메인 페이지" width="300"/>
+* 메인 화면 <img src="./Daewo_pj_main.png" alt="메인 페이지" width="300" height="400"/>
 * 연락처 추가화면 <img src="./Daewo_pj_make2.png" alt="연락처 추가" width="300"/>
 * 연락처 삭제<img src="./Daewo_pj_del.png" alt="연락처 추가" width="300"/>
 * 추가된 연락처 <img src="./Daewo_pj_main2.png" alt="추가된 연락처 메인 페이지" width="300"/>
