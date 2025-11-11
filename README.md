@@ -28,6 +28,8 @@
  ## 프로젝트
   * [AI 챗봇(GOOD RECIPE)](./Project01.md)
 
+  * [호텔 예약 사이트](./Project02.md)
+
   * [Pc방 푸드 포인트 웹](./Project03.md)
 
  ## 교육
