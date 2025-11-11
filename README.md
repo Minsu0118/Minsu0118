@@ -27,8 +27,6 @@
 
  ## 프로젝트
   * [AI 챗봇(GOOD RECIPE)](./Project01.md)
- 
-  * [AI 레시피 추천서비스(냉장Go) 1차 개발 프로젝트](./Project02.md)
 
   * [Pc방 푸드 포인트 웹](./Project03.md)
 
