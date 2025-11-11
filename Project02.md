@@ -3,10 +3,10 @@
 <img src="./logo.png" alt="냉장Go 로고" width="300"/>
   
 ## 👯팀별 구성
-* 프론트엔드-김무일 박민수
-
-* 백엔드-김상연 김신중
-
+사용자 페이지 : 박민수, 임천수, 장호진
+웹 관리자 페이지 : 김완호, 김상연
+호텔 관리자 : 김완호, 허휘영
+배포 : 허휘영, 김상연
   
 ## 📈개발 순서
 
@@ -14,34 +14,27 @@
 
 2. UI/UX 설계 및 앱 구조 설정
 
-3. 검색 기능 및 리뷰 기능 개발
+3. 사용자 / 괸리자 개발
 
-4. 팝업 메모 기능 개발
+4. 전체 기능 통합
 
-5. AI 추천 기능 개발(재료 + 칼로리 기반 추천)
+5. 보안 및 취약점 보안
 
-6. 전체 기능 통합 및 데이터 연동
-
-7. 버그 수정, 배포 준비, 최종 테스트
+5. 버그 수정, 배포 준비, 최종 테스트
 
 ## 개발 시스템 환경
-- Android Studio(JAVA+XML)
-- JAVA
-- My Sql()
+- 프론트 : visual studio code(spring)
+- 백엔드 : Java
+- DB : heidiSQL
 
 ## 📷 UI 화면 예시
-* 실행 화면![GOOD Recipe](./Phone01.png)
-* 메인 화면![GOOD Recipe](./Phone02.png)
-* 냉장고 화면![GOOD Recipe](./Phone03.png)
+* 메인 화면![GOOD Recipe](./Phone01.png)
+* 검색 화면![GOOD Recipe](./Phone02.png)
+* 마이페이지 화면![GOOD Recipe](./Phone03.png)
 * 검색 화면![GOOD Recipe](./Phone04.png)
 * 리뷰 화면![GOOD Recipe](./Phone05.png)
-* 메모 화면![GOOD Recipe](./Phone06.png)
-* 칼로리 화면![GOOD Recipe](./Phone07.png)
-
-## 🧠AI 기반 식단 & 영양 관리 앱
-- 개인 맞춤형 식단 추천-> AI 기반 건강 분석(칼로리) & 조언
-- 다른 사용자와 식단 공유, 레시피 추천
-- 가정 내 식재료 기반 맞춤 요리 추천 -> 사용자가 냉장고에 있는 재료를 입력하면, AI가 활용 가능한 레시피 추천
+* 예약 화면![GOOD Recipe](./Phone06.png)
+* 문의사항 화면![GOOD Recipe](./Phone07.png)
 
 ## 🤔차별화
 * 운동 + 식단 통합 관리 (AI가 효율적인 식사 제안)
