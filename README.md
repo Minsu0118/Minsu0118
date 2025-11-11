@@ -20,16 +20,14 @@
   * 🌱[Spring](./Spring_NOTE.md)
 * Data
   * 🐬[MYSQL](./MYSQL_NOTE.md)
-* 💻[통합 게시판 만들기(JAVA + SQL)](./MakeBoard.md)
+  * 💻[통합 게시판 만들기(JAVA + SQL)](./MakeBoard.md)
 
 ## 오프라인 프로그램 교육
  * [대우 웹보안 개발자](/Daewo.md)
 
  ## 프로젝트
   * [AI 챗봇(GOOD RECIPE)](./Project01.md)
-
-  * [호텔 예약 사이트](./Project02.md)
-
+  * [호텔 예약 사이트(egoda)](./Project02.md)
   * [Pc방 푸드 포인트 웹](./Project03.md)
 
  ## 교육
@@ -38,18 +36,3 @@
  ## 활동
  [오프라인](./offline.md)
 
-
-<!--
-**Minsu0118/Minsu0118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
